@@ -2,7 +2,7 @@
   "name": "json-editor-frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:5000",
+  "homepage": "http://HQDung.github.io/Personal-Advisor-React-App",
   "dependencies": {
     "axios": "0.19.0",
     "enzyme": "3.10.0",
